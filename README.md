@@ -1,12 +1,3 @@
-# 🔥 **PS3-RE: The Complete Firmware Reverse Engineering Suite** 🔥
-
-Here's a professional `README.md` for your GitHub repo that showcases the full power of your PS3 firmware reverse engineering suite:
-
----
-
-## **`README.md`**
-
-```markdown
 # 🔥 PS3-RE: The Complete Firmware Reverse Engineering Suite
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
